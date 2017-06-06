@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TubeTestInput>
+	<TestData>
+		<Color>blue</Color>
+		<Supported>true</Supported>
+	</TestData>
+	<TestData>
+		<Color>green</Color>
+		<Supported>true</Supported>
+	</TestData>
+	<TestData>
+		<Color>yellow</Color>
+		<Supported>true</Supported>
+	</TestData>
+	<TestData>
+		<Color>red</Color>
+		<Supported>true</Supported>
+	</TestData>
+	<TestData>
+		<Color>violet</Color>
+		<Supported>true</Supported>
+	</TestData>
+	<TestData>
+		<Color>orange</Color>
+		<Supported>false</Supported>
+	</TestData>
+</TubeTestInput>
